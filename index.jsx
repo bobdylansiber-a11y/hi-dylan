@@ -1,0 +1,1 @@
+// Neutralized to prevent syntax errors. See index.tsx.

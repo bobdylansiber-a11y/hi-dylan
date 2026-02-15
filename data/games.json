@@ -1,0 +1,65 @@
+[
+  {
+    "id": "2048",
+    "title": "2048 Deluxe",
+    "description": "The ultimate number merging experience. Strategize your moves to reach the 2048 tile and beyond in this smooth, ad-free version.",
+    "thumbnail": "https://images.unsplash.com/photo-1614332287897-cdc485fa562d?auto=format&fit=crop&q=80&w=600",
+    "iframeUrl": "https://play2048.co/",
+    "category": "Puzzle",
+    "rating": 4.9
+  },
+  {
+    "id": "hextris",
+    "title": "Hextris Pro",
+    "description": "Fast-paced hexagonal puzzle action. Rotate the hexagon and match colored blocks to prevent them from reaching the outer edge.",
+    "thumbnail": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&q=80&w=600",
+    "iframeUrl": "https://hextris.io/",
+    "category": "Arcade",
+    "rating": 4.7
+  },
+  {
+    "id": "google-snake",
+    "title": "Classic Snake",
+    "description": "The definitive retro arcade experience. Navigate your snake to collect points and grow longer without colliding with the walls or your tail.",
+    "thumbnail": "https://images.unsplash.com/photo-1551103782-8ab07afd45c1?auto=format&fit=crop&q=80&w=600",
+    "iframeUrl": "https://www.google.com/logos/2010/pacman10-i.html",
+    "category": "Arcade",
+    "rating": 4.9
+  },
+  {
+    "id": "grandmaster-chess",
+    "title": "Master Chess",
+    "description": "Challenge a high-performance AI in the world's most popular strategy game. Perfect for both beginners and seasoned grandmasters.",
+    "thumbnail": "https://images.unsplash.com/photo-1529699211952-734e80c4d42b?auto=format&fit=crop&q=80&w=600",
+    "iframeUrl": "https://www.chess.com/play/computer",
+    "category": "Strategy",
+    "rating": 4.8
+  },
+  {
+    "id": "minesweeper",
+    "title": "Minesweeper Alpha",
+    "description": "A classic logic puzzle that tests your deduction skills. Mark the mines and clear the grid as fast as possible in this sleek interface.",
+    "thumbnail": "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&q=80&w=600",
+    "iframeUrl": "https://minesweeperonline.com/",
+    "category": "Puzzle",
+    "rating": 4.4
+  },
+  {
+    "id": "tetris",
+    "title": "Grid Stacker",
+    "description": "The world-famous block-stacking puzzle. Fit falling blocks together to clear lines and rack up a high score in this infinite challenge.",
+    "thumbnail": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&q=80&w=600",
+    "iframeUrl": "https://tetris.com/play-tetris",
+    "category": "Puzzle",
+    "rating": 4.9
+  },
+  {
+    "id": "drift-hunters",
+    "title": "Velocity Drift",
+    "description": "High-octane car drifting simulator. Customize your ride and master complex corners in this realistic physics-based driving game.",
+    "thumbnail": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&q=80&w=600",
+    "iframeUrl": "https://www.google.com",
+    "category": "Action",
+    "rating": 4.6
+  }
+]
